@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Su-blue)](https://ktsuw.github.io/portfolio/)
 
 I'm
-a Software Developer with strong passion for learning various technology stacks including cloud and have a keen interest in data structure and algorithms.
+a developer with strong passion for learning various technology stacks including cloud and have a keen interest in data structure and algorithms.
 
 
 
