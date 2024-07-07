@@ -1,9 +1,5 @@
 # Hi there👋
-
 I'm a developer with strong passion for learning various technology stacks including cloud and have a keen interest in devsecops, security, data structure and algorithms.
-
-
-
 
 **Languages and Tools:**
 
